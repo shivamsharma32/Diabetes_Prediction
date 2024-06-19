@@ -13,3 +13,6 @@ Complex queries were employed to identify patterns and correlations between heal
 Our SQL-based analysis provided valuable insights, leading to improved diabetes prediction and personalized patient management.
 The continuous optimization and schema enhancements significantly boosted data integrity and query performance, enabling more accurate patient profiling and better healthcare outcomes.
 
+![image](https://github.com/shivamsharma32/Diabetes_Prediction/assets/153700930/717847e8-e2bb-4dbd-809c-e4e302b5cf3e)
+
+

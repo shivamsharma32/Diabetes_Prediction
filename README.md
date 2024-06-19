@@ -1,4 +1,4 @@
-**Diabetes Prediction [ Intenship Projrct ]**
+**Diabetes Prediction [ Intenship Project ]**
 
 **Problem Statement**
 The challenge was to effectively predict diabetes and manage patient care by analyzing extensive patient data. 
